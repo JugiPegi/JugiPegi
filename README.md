@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello, I'm Jukka-Pekka from Finland! 🇫🇮
+
+👨‍💻 Currently working in IT.  
+📚 Studying for my Bachelor's Degree in Computer Engineering.
+
 
 <!--
 **JugiPegi/JugiPegi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
